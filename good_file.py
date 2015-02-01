@@ -4,6 +4,7 @@
 
 BOOL_VAL = False
 
+
 def is_boolean(checkval):
     """Function that checks if the entered value is a boolean.
 
