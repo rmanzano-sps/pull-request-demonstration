@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Contains globals for new_file and a simple function."""
 
-BOOL_VAL = True
+BOOL_VAL = False
 
 def is_boolean(checkval):
     """Function that checks if the entered value is a boolean.
