@@ -17,7 +17,7 @@ class GoodFileTestCase(unittest.TestCase):
 
     def test_bool_val(self):
         """Tests that BOOL_VAL is true"""
-        assertTrue(good_file.BOOL_VAL)
+        self.assertTrue(good_file.BOOL_VAL)
 
 
 if __name__ == '__main__':
